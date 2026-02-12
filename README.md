@@ -1,4 +1,4 @@
-reate database supermercado;
+create database supermercado;
 
 
 create table cliente (
